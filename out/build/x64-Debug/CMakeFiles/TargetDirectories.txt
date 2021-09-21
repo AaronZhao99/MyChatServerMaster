@@ -1,0 +1,10 @@
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/server/CMakeFiles/edit_cache.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/server/CMakeFiles/ChatServer.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/server/CMakeFiles/rebuild_cache.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/client/CMakeFiles/ChatClient.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/client/CMakeFiles/edit_cache.dir
+C:/Users/61492/Desktop/chatserver-master (1)/chatserver-master/out/build/x64-Debug/src/client/CMakeFiles/rebuild_cache.dir
